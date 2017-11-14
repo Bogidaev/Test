@@ -1,5 +1,8 @@
-﻿Для смены на формата XML или JSON в hedere запроса надо отправить для: 
+﻿Для смены на формата XML или JSON в hedere запроса надо отправить для  Content-Type c типами:
+ 
+
 JSON - Content-Type application/json 
+
 XML - Content-Type application/xml
 
 http://localhost:53929/api/users - Получение списка всех пользователей
