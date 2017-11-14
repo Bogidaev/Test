@@ -11,7 +11,7 @@ using PetStar.Servise;
 
 namespace PetStar.Controllers
 {
-    public class UserManagerController : ApiController
+    public class UserController : ApiController
     {
         public IWindsorContainer Container { get; set; }
 
