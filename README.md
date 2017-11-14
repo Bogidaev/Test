@@ -1,5 +1,4 @@
-﻿Для смены на формата XML или JSON в hedere запроса надо отправить для  Content-Type c типами:
- 
+﻿Для смены на формата XML или JSON в hedere запроса надо отправить тип Content-Type c параметрами:
 
 JSON - Content-Type application/json 
 
